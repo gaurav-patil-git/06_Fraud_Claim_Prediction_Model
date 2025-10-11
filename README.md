@@ -100,7 +100,7 @@ NaN
 │   ├── raw/               # Original, immutable data dumps
 │   ├── processed/         # Cleaned & feature-engineered datasets
 │
-├── documents/             # Scope of work
+├── documents/             # Prompt Bank
 │
 ├── models/                # Saved model and scaler objects 
 │
