@@ -23,7 +23,7 @@ This project aims to develop a machine learning product to help Motor Insurance 
 
 <h2><a class="anchor" id="model-preview"></a>🔗 Model Preview</h2>
 
-![model preview](https://github.com/gaurav-patil-git/06_Fraud_Claim_Prediction_Model/blob/main/visuals/fraud-risk.gif)
+![model preview](https://github.com/gaurav-patil-git/06_Fraud_Claim_Prediction_Model/blob/main/visuals/fraud-risk.png)
 
 <h2><a class="anchor" id="credits"></a>🪪 Credits</h2>
 
